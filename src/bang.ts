@@ -122062,4 +122062,13 @@ export const bangs = [
     t: "\u10d0\u10e1\u10e2\u10e0\u10dd",
     u: "http://astronet.ge/?s={{{s}}}",
   },
+  {
+    c: "Multimedia",
+    d: "bg3.wiki",
+    r: 0,
+    s: "BG3 Wiki"
+    sc: "Games (BG3)"
+    t: "bg3",
+    u: "https://bg3.wiki/w/index.php?search={{{s}}}&title=Special%3ASearch&go=Go",
+  },
 ];
