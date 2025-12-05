@@ -122066,8 +122066,8 @@ export const bangs = [
     c: "Multimedia",
     d: "bg3.wiki",
     r: 0,
-    s: "BG3 Wiki"
-    sc: "Games (BG3)"
+    s: "BG3 Wiki",
+    sc: "Games (BG3)",
     t: "bg3",
     u: "https://bg3.wiki/w/index.php?search={{{s}}}&title=Special%3ASearch&go=Go",
   },
