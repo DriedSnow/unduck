@@ -122087,4 +122087,28 @@ export const bangs = [
     t: "vamp",
     u: "https://vampire.survivors.wiki/?search={{{s}}}&title=Special%3ASearch&wprov=acrw1_-1",
   },
+  {
+    c: "Multimedia",
+    d: "rule34.xxx",
+    r: 0,
+    s: "Rule34",
+    t: "r34",
+    u: "https://rule34.xxx/index.php?page=post&s=list&tags={{{s}}}",
+  },
+  {
+    c: "Multimedia",
+    d: "e621.net",
+    r: 0,
+    s: "e621",
+    t: "e621",
+    u: "https://e621.net/posts?tags={{{s}}}",
+  },
+  {
+    c: "Multimedia",
+    d: "gelbooru.com",
+    r: 0,
+    s: "Gelbooru",
+    t: "r34g",
+    u: "https://gelbooru.com/index.php?page=post&s=list&tags={{{s}}}",
+  },
 ];
