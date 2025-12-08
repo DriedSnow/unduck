@@ -122076,7 +122076,7 @@ export const bangs = [
     d: "game8.co",
     r: 0,
     s: "Umamusume Wiki",
-    t: "uma"
+    t: "uma",
     u: "https://game8.co/games/Umamusume-Pretty-Derby/search?q={{{s}}}",
   },
   {
