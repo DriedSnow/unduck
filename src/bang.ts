@@ -122071,4 +122071,20 @@ export const bangs = [
     t: "bg3",
     u: "https://bg3.wiki/w/index.php?search={{{s}}}&title=Special%3ASearch&go=Go",
   },
+  {
+    c: "Multimedia",
+    d: "game8.co",
+    r: 0,
+    s: "Umamusume Wiki",
+    t: "uma"
+    u: "https://game8.co/games/Umamusume-Pretty-Derby/search?q={{{s}}}",
+  },
+  {
+    c: "Multimedia",
+    d: "survivors.wiki",
+    r: 0,
+    s: "Vampire Survivors",
+    t: "vamp",
+    u: "https://vampire.survivors.wiki/?search={{{s}}}&title=Special%3ASearch&wprov=acrw1_-1",
+  },
 ];
