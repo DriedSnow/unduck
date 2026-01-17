@@ -44208,15 +44208,6 @@ export const bangs = [
     u: "http://gpsies.de/?q={{{s}}}",
   },
   {
-    c: "Online Services",
-    d: "www.google.pt",
-    r: 223,
-    s: "Google PT",
-    sc: "Google",
-    t: "gpt",
-    u: "https://www.google.pt/search?q={{{s}}}",
-  },
-  {
     c: "News",
     d: "www.greenpeace.org.uk",
     r: 0,
@@ -122110,5 +122101,22 @@ export const bangs = [
     s: "Gelbooru",
     t: "r34g",
     u: "https://gelbooru.com/index.php?page=post&s=list&tags={{{s}}}",
+  },
+  {
+    c: "Multimedia",
+    d: "loverslab.com",
+    r: 0,
+    s: "loverslab",
+    t: "lover",
+    u: "https://www.loverslab.com/search/?q={{{s}}}&quick=1&type=downloads_file",
+  },
+  {
+    c: "Research",
+    d: "www.chatgpt.com",
+    r: 152,
+    s: "chatgpt.com",
+    sc: "Reference",
+    t: "gpt",
+    u: "https://chatgpt.com/?q={{{s}}}",
   },
 ];
